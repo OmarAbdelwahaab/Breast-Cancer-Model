@@ -4,8 +4,6 @@ This repository contains a clean, reproducible Machine Learning pipeline to pred
 
 ## 📁 Repository Structure
 * **`data/`**: Directory for the input CSV files (ignored by git).
-* **`models/`**: Stores saved preprocessing parameters and trained models (`.pkl` binaries).
-* **`notebooks/`**: Contains the original exploratory Jupyter Notebook data analysis.
 * **`src/`**: Modular Python scripts for running the pipeline steps sequentially.
 
 ---
